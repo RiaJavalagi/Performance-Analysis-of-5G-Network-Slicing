@@ -166,31 +166,6 @@ The simulation demonstrates:
 
 ---
 
-## Project Structure
-
-```text
-5G-Network-Slicing-Simulator/
-│
-├── README.md
-├── requirements.txt
-├── 5g_network_slicing.ipynb
-│
-├── src/
-│   ├── slicing_simulation.py
-│   ├── topology_visualization.py
-│   └── comparison_analysis.py
-│
-├── results/
-│   ├── latency_comparison.png
-│   ├── throughput_comparison.png
-│   ├── packet_loss_analysis.png
-│   └── topology.png
-│
-└── docs/
-    └── project_report.pdf
-```
-
----
 
 ## Installation
 
